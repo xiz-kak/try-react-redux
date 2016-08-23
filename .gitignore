@@ -1,0 +1,10 @@
+*.swp
+*.log
+.DS_Store
+
+.vagrant/
+workspace/compiled/
+workspace/static/
+workspace/node_modules/*
+
+!.gitkeep
